@@ -10,3 +10,7 @@ wk add new line
 wk add new line 2
 ### this is a comment
 wk add new line 3
+
+#c1
+#c2
+wk add new line 4
